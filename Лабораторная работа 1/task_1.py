@@ -79,7 +79,7 @@ class AngelCastiel:
 class DeanWinchester:
     def __init__(self, pies_cont: int, trouble_sense_tingling: int):
         """
-        Создание и подготовка к работе объекта "Dean_Winchester".
+        Создание и подготовка к работе объекта "DeanWinchester".
 
         :param pies_cont: Количество пирогов, находящихся в досягаемости.
         :param trouble_sense_tingling: Уровень тревоги по шкале от 0 до 10.
@@ -151,7 +151,7 @@ class DeanWinchester:
 class SamWinchester:
     def __init__(self, creatures_approaching: int, disapproval_level: int):
         """
-        Создание и подготовка к работе объекта "Angel_Castiel".
+        Создание и подготовка к работе объекта "SamWinchester".
 
         :param creatures_approaching: Количество приближающихся вампиров, призраков и оборотней.
         :param disapproval_level: Уровень неодобрения по шкале от 0 до 10.
